@@ -1,0 +1,4 @@
+=== Game Log: Echoes of Adkins House ===
+Player moved north to Library
+Player moved east to Kitchen
+Player moved down to Basement
